@@ -1,3 +1,8 @@
+---
+title: "Motivation"
+date: 2022-01-28
+---
+
 I am motivated, responsible and enjoy the challenge of
 learning new skills. I always strive to enhance my learning
 and personal development whenever possible. I have the
@@ -6,7 +11,4 @@ team. I am interested to start my career in information and
 technology and to gain work experience in a leading
 business entity which will help me to reach my goals and
 succeed in life.
----
-title: "Motivation"
-date: 2022-01-28
----
+
